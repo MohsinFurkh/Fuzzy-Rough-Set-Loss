@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: manuscript.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+The style file: elsarticle-num.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: Ref.bib
+Warning--empty pages in oktay2018
+Warning--can't use both author and editor fields in huber1964robust
+Warning--empty chapter and pages in huber1964robust
+You've used 36 entries,
+            2952 wiz_defined-function locations,
+            974 strings with 15587 characters,
+and the built_in function-call counts, 15152 in all, are:
+= -- 1403
+> -- 642
+< -- 11
++ -- 236
+- -- 200
+* -- 1330
+:= -- 2052
+add.period$ -- 71
+call.type$ -- 36
+change.case$ -- 37
+chr.to.int$ -- 0
+cite$ -- 39
+duplicate$ -- 466
+empty$ -- 1561
+format.name$ -- 239
+if$ -- 3835
+int.to.chr$ -- 0
+int.to.str$ -- 36
+missing$ -- 36
+newline$ -- 162
+num.names$ -- 48
+pop$ -- 250
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 882
+stack$ -- 0
+substring$ -- 828
+swap$ -- 217
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 91
+width$ -- 38
+write$ -- 391
+(There were 3 warnings)
