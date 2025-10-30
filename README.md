@@ -25,9 +25,9 @@ If you find this work useful for your research, please cite our paper:
 ```bibtex
 @article{fuzzyroughsetloss2024,
   title={Fuzzy Rough Set Loss for Deep Learning-Based Precise Medical Image Segmentation},
-  author={Furkh, Mohsin and [Additional Authors]},
-  journal={[Journal Name]},
-  year={2024},
+  author={Dar, Mohsin Furkh and Avatharam Ganivada},
+  journal={////////////////},
+  year={2025},
   note={Under Review}
 }
 ```
@@ -36,4 +36,4 @@ If you find this work useful for your research, please cite our paper:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or suggestions, please contact [Your Name] at [Your Email].
+For any questions or suggestions, please contact Mohsin Furkh Dar at 20mcpc02@uohyd.ac.in  or mohsin.dar@ddn.upes.ac.in.
