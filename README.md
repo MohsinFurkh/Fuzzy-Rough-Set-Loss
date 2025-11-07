@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.7+-EE4C2C.svg)](https://pytorch.org/)
 
 ## Overview
 This repository contains the implementation of the Fuzzy Rough Set (FRS) Loss, a novel loss function designed for precise medical image segmentation tasks. The FRS Loss leverages fuzzy rough set theory to better handle the inherent uncertainty and imprecision in medical image segmentation, particularly in boundary regions and areas with ambiguous annotations.
